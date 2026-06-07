@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Verilen datasetinin deataylı analizi ve model eğitiminden sonraki grafik analizleri ekteki pdf doyasında sunulmuştur.
+Verilen datasetinin detaylı analizi ve model eğitiminden sonraki grafik analizleri ekteki pdf doyasında sunulmuştur.
 
 <!--
 **nazmiucar/nazmiucar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
